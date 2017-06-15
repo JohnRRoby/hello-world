@@ -1,4 +1,4 @@
 # hello-world
-See name.
+See title.
 
 My name is John and I'm doing GitHub's tutorial.
